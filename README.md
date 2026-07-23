@@ -1,44 +1,13 @@
-# Kittu ❤️
+# JavaScript Learning
 
-> A small website made with love.
+This repository contains my JavaScript Learning journey.
 
-This is a personal project I'm building as a gift.
+Currently following Harshit Vashisth JavaScript Course and practicing concepts by writing code and experimenting with examples.
 
-Instead of buying something, I wanted to create something that would always be there—a place to preserve memories, letters, photos, music, and moments we've shared together.
+I use this repository to:
+- 📖 Learn new concepts
+- 💻 Practice by writing code
+- 🧪 Experiment with examples
+- 📈 Track my progress through meaningful Git commits
 
-Every page tells a different part of our story.
-
----
-
-## Current Progress
-
-- ✅ Landing Page
-- ✅ Proposal Letter Page
-- ⏳ Typewriter Animation
-- ⏳ Memories
-- ⏳ Gallery
-- ⏳ Playlist
-- ⏳ Future
-
----
-
-## Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-
----
-
-
-## Status
-
-🚧 Work in Progress
-
-Started in July 2026.
-
-Every update adds another memory.
-
----
-
-Made with ❤️ by Abhiyanshu
+This repository is not intended to be a collection of perfect code. It is a record of my learning journey and how my understanding evolves over time.
